@@ -1,0 +1,19 @@
+# Ignore data folder
+data/
+.venv/
+Figures/
+kt_results_bayes/
+logs/
+logs_bayes/
+untitled_project/
+.ipynb_checkpoints/
+
+# Ignore ML artifacts
+*.pkl
+*.csv
+*.txt
+
+# Optional (common ML stuff)
+*.h5
+*.pt
+*.npy
